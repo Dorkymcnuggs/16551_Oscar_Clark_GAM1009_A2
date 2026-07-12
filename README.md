@@ -2,16 +2,20 @@
 
 \# Summary
 
-&#x09;this repo is to manage my unreal engine project for Game Scripting
+&#x09;This is my first SHMUP game, controls are typical WASD for movement, left mouse for fire type 1, right mouse fire type 2, alt changes the shooting pattern. Open the Assignment level as this is the most functional slice. You will play forever essentially and die, respawn and enemies will keep respawning until you end the run using unreal's stop level button
 
 
+
+\# Notes
+
+&#x09;I've changed how the death sequence works, from research the ui would shoot out an error when the original actor is destroyed but still run as it should. Found a solution which is to just reset the player's health and location without entirely removing it.
 
 
 
 \# References and Usage
-PlaceHolderInc sound pack asset for sound effects explosions, sci-fi gun
-Raptor3D for low poly jet asset for player character
-Michael Vest for Spaceship (enzo) for enemy B
 
-More 3d studio Real UFO game ready for enemy A
+* More 3d studio Real UFO game ready for enemy A
+* Michael Vest for Spaceship (enzo) for enemy B
+* Raptor3D for low poly jet asset for player character
+* PlaceHolderInc sound pack asset for sound effects explosions, sci-fi gun
 
