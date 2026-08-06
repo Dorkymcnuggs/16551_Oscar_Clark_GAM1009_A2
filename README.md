@@ -18,4 +18,8 @@
 * Michael Vest for Spaceship (enzo) for enemy B
 * Raptor3D for low poly jet asset for player character
 * PlaceHolderInc sound pack asset for sound effects explosions, sci-fi gun
+* Plane image for project tile from iStock (ordinary black plane)
+* Absolum Main Screen image from Game UI Database
+
+
 
