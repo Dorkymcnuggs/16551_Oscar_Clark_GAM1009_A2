@@ -8,7 +8,7 @@
 
 \# Notes
 
-&#x09;I've changed how the death sequence works, from research the ui would shoot out an error when the original actor is destroyed but still run as it should. Found a solution which is to just reset the player's health and location without entirely removing it.
+&#x09;I've changed the death sequence to also store the old actor as the ui would have a hissy fit when it was removed
 
 
 
@@ -20,6 +20,4 @@
 * PlaceHolderInc sound pack asset for sound effects explosions, sci-fi gun
 * Plane image for project tile from iStock (ordinary black plane)
 * Absolum Main Screen image from Game UI Database
-
-
 
